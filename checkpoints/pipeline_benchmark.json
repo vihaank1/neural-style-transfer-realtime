@@ -1,0 +1,12 @@
+{
+  "frames_processed": 795,
+  "threads": 4,
+  "batch_size": 8,
+  "baseline_fps_no_grad_off": 55.01,
+  "optimized_fps_inference_mode_batched": 64.65,
+  "speedup_x": 1.18,
+  "output_video": "samples/stylized_vtest_full.mp4",
+  "single_thread_grad_on_fps": 56.41,
+  "source_video_fps": 10,
+  "realtime_multiplier_x": 6.47
+}
